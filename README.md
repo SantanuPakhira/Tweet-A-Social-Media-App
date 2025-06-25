@@ -1,6 +1,8 @@
 Tweet - A Social Media Platform 🐦
 Tweet is a microblogging social media application where users can create an account, share their thoughts, post images, and engage with friends through comments and feeds.
 
+project Screenshot 
+
 ![image](https://github.com/user-attachments/assets/9564964d-3ffb-4455-bb21-5497980d90df)
 
 ![image](https://github.com/user-attachments/assets/9c7c4e08-f0d7-4e58-a02b-c5d51089d397)
